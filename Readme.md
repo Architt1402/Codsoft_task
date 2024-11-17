@@ -45,3 +45,26 @@ Input: 3, 2, Operation: ** → Result: 9
 Output Results:
 
 The computed result is displayed clearly on the screen, providing immediate feedback to the user.
+
+
+  # Password Generator - TASK 3
+
+The Password Generator helps users create secure, random passwords tailored to their needs. By specifying length and complexity, users can generate strong passwords suitable for any account. Here’s a breakdown of its functionality:
+
+Input Specifications:
+
+Users provide the desired password length as input.
+For example, a user might request a password with 16 characters.
+Password Creation:
+
+The application randomly selects characters to create a password.
+It can include:
+Uppercase and lowercase letters
+Numbers
+Special characters
+The generated password meets the specified length and ensures high security.
+Example: A generated password could look like z$3X@J8kL#9mRf1
+Password Display:
+
+The resulting password is displayed for the user.
+This tool ensures the user has a reliable, strong password, enhancing security for online accounts and applications.
