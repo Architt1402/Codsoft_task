@@ -10,7 +10,7 @@ import string
 
 def password_generator():
     print("\n\n\t\t\tby @Archit Tanwar")
-    print("________________________________________")
+    print(" ")
     print("\n\t\t\t*** RANDOM PASSWORD GENERATOR ***\n")
     
     # Getting username from the user
