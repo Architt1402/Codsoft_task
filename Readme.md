@@ -68,3 +68,32 @@ Password Display:
 
 The resulting password is displayed for the user.
 This tool ensures the user has a reliable, strong password, enhancing security for online accounts and applications.
+
+
+
+
+# Rock, Paper, Scissors Game - TASK 4
+
+The Rock, Paper, Scissors Game is a fun and interactive command-line application where users play against the computer. The game follows the traditional rules and keeps track of scores across rounds. Here's how it works:
+
+1. User Input:
+Players select one of the three options: rock, paper, or scissors.
+The computer simultaneously chooses an option randomly.
+For example, the user inputs rock while the computer selects scissors.
+2. Determine Winner:
+The game compares the user's and computer's choices to decide the winner based on these rules:
+Rock beats Scissors.
+Scissors beats Paper.
+Paper beats Rock.
+Identical choices result in a tie.
+Example outcome:
+User: Rock | Computer: Scissors → User wins!
+3. Track Scores:
+Scores are displayed after each round, showing:
+User Wins: Total number of rounds won by the user.
+Computer Wins: Total number of rounds won by the computer.
+4. Play Again:
+After each round, users are prompted to decide whether to play again.
+The game ends when the user chooses not to continue.
+5. Stay Entertained:
+The Rock, Paper, Scissors Game offers endless fun, encouraging players to test their luck and strategy against the computer.
