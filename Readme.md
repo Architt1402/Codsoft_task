@@ -97,3 +97,39 @@ After each round, users are prompted to decide whether to play again.
 The game ends when the user chooses not to continue.
 5. Stay Entertained:
 The Rock, Paper, Scissors Game offers endless fun, encouraging players to test their luck and strategy against the computer.
+
+# Contact Book - TASK 5
+
+The Contact Book is a command-line application designed to efficiently manage and organize contacts. Users can add, view, search, update, and delete contact information. Here's how it works:
+
+1. Add Contact:
+Users can create a new contact by providing the following details:
+Name
+Phone number
+Email address
+Address
+Example: Adding a contact named John Doe with a phone number 1234567890, email johndoe@example.com, and address 123 Elm Street.
+2. View Contact List:
+Displays all saved contacts, showing their names and phone numbers.
+Example:
+Name: Alice | Phone: 9876543210
+Name: Bob | Phone: 1234567890
+3. Search Contact:
+Allows users to search for a contact by name or phone number.
+If a match is found, it displays the full contact details, including name, phone number, email, and address.
+Example: Searching for Alice might display:
+Name: Alice
+Phone: 9876543210
+Email: alice@example.com
+Address: 456 Maple Drive
+4. Update Contact:
+Enables users to modify the details of an existing contact.
+For instance, updating Bob's phone number from 1234567890 to 9876543211.
+5. Delete Contact:
+Provides an option to remove a contact from the database.
+Example: Deleting the contact for John Doe removes all their saved details.
+6. User-Friendly Interface:
+An intuitive menu guides users through various operations, ensuring a smooth and hassle-free experience.
+Users can select actions like Add Contact, View Contacts, Search Contact, Update Contact, and Delete Contact from the menu.
+7. Exit Option:
+Users can exit the application at any time by selecting the Exit option.
