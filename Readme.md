@@ -1,4 +1,3 @@
-
 # To-Do List Application - TASK 1
 
 The To-Do List Manager helps users stay organized by efficiently managing and tracking their tasks through a command-line interface (CLI). Here's a breakdown of the application's features:
@@ -18,7 +17,6 @@ Completed tasks can be checked off, while pending tasks remain visible for track
 Stay Productive:
 
 With the To-Do List Manager, users can efficiently manage their responsibilities, ensuring no task is forgotten.
-
 
 
 
